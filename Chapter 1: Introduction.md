@@ -28,9 +28,11 @@ Ember是一个前端Javascript框架.你可以使用它编写复杂,重量级的
 在最后,我觉的如果你要选择一个前端框架去学习,选择Ember,你绝对不会失望.
 
 **教程要求**
+
 本教程适合有Javascript和Ruby on Rails基础的开发人员.如果你想跟着该教程学习,应该在你的电脑上安装一个Rails的开发环境.
 
 **JavaScript和CoffeeScript版本**
+
 我原本使用CoffeeScript编写本教程,因为我使用CoffeeScript编写Ember.我觉的它可以产生简洁的代码.如果你要使用Ember做全职开发,我觉的使用CoffeeScript会更适合。
 
 然而,我知道很多人不知道或者不喜欢CoffeeScript,所以我也做了Javascript的版本,使用页面右上方的开关可以切换语言.
@@ -38,6 +40,7 @@ Ember是一个前端Javascript框架.你可以使用它编写复杂,重量级的
 做为一个CoffeeScript学习者的先驱,[JS2Coffee.rog][3]可以转换CoffeeScript代码到JavaScript,也可以反过来。
 
 **测试**
+
 我通常使用TDD,并且没有测试的话不发布代码,有一些原因我在本教程中并没有覆盖到测试.
 
 第一,这里有很多东西需要学习,如果测试再掺杂进来,会使教程更加的困难.
@@ -47,6 +50,7 @@ Ember是一个前端Javascript框架.你可以使用它编写复杂,重量级的
 如果有很多关于测试的需求,我会写另外的文章来介绍.
 
 **问题和勘误**
+
 如果你有问题或者发现了错误，请发邮件给我[vic@vicramon.com][6],或者提交一个[pull request][7]. 
 
 
