@@ -6,7 +6,7 @@
 
 **什么是Ember JS**
 
-Ember是一个前端Javascript框架.你可以使用它编写复杂,重量级的web app.它提供了组织良好的架构,约定和内建的方式去处理困难的事情.和Angular,Backbone,Knockout一样,Ember也可以帮助开发者构建伟大的前端应用程序,并且维护一个整洁的代码库.
+Ember是一个前端JavaScript框架.你可以使用它编写复杂,重量级的web app.它提供了组织良好的架构,约定和内建的方式去处理困难的事情.和Angular,Backbone,Knockout一样,Ember也可以帮助开发者构建伟大的前端应用程序,并且维护一个整洁的代码库.
 
 **为什么选择Ember**
 
@@ -30,13 +30,13 @@ Ember是一个前端Javascript框架.你可以使用它编写复杂,重量级的
 
 **教程要求**
 
-本教程适合有Javascript和Ruby on Rails基础的开发人员.如果你想跟着该教程学习,应该在你的电脑上安装一个Rails的开发环境.
+本教程适合有JavaScript和Ruby on Rails基础的开发人员.如果你想跟着该教程学习,应该在你的电脑上安装一个Rails的开发环境.
 
 **JavaScript和CoffeeScript版本**
 
 我原本使用CoffeeScript编写本教程,因为我使用CoffeeScript编写Ember.我觉的它可以产生简洁的代码.如果你要使用Ember做全职开发,我觉的使用CoffeeScript会更适合。
 
-然而,我知道很多人不知道或者不喜欢CoffeeScript,所以我也做了Javascript的版本,使用页面右上方的开关可以切换语言.
+然而,我知道很多人不知道或者不喜欢CoffeeScript,所以我也做了JavaScript的版本,使用页面右上方的开关可以切换语言.
 
 做为一个CoffeeScript学习者的先驱,[JS2Coffee.rog][3]可以转换CoffeeScript代码到JavaScript,也可以反过来。
 
