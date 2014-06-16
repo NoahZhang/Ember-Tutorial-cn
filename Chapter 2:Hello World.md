@@ -131,7 +131,7 @@ Ember Rails为我们生成了一个`application.js.coffee`,我们使用它,删�
 
 Ember Inspector非常重要的调试Ember的工具,它是一个Chrome的扩展,帮助我们了解应用中发生的事情,你可以从[这里][4]下载它.
 
-安装完成后刷新你的浏览器,并且打开Chrome开发者工具.你应该可以看到一个tab标题是**Ember**,里面有各种各样有用的工具.**View Tree**会精确的显示已经呈现的内容以及他们来自哪里.**Routes**会显示你的应用中所有的routes,以及每一个寻找的其他对象,当前的route会显示为粗体.Data会显示你的应用中所有的active records,你可以点击一笔记录查看它的attributes.
+安装完成后刷新你的浏览器,并且打开Chrome开发者工具.你应该可以看到一个tab标题是**Ember**,里面有各种各样有用的工具.**View Tree**会精确的显示已经呈现的内容以及他们来自哪里.**Routes**会显示你的应用中所有的routes,以及每一个route关联的对象,当前的route会显示为粗体.**Data**会显示你的应用中所有的active records,你可以点击一笔记录查看它的attributes.
 
 我没有办法说出Ember Inspector所有有用的东西,它使得应用内部的工作变得变得清晰可见.
 
