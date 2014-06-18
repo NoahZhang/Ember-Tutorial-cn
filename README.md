@@ -1,7 +1,7 @@
 Ember-Tutorial-cn
 =================
 
-Translate Vic Ramon's Ember Tutorial to Chinese. http://ember.vicramon.com/
+Translate Vic Ramon's Ember Tutorial to Chinese. 原文链接:http://ember.vicramon.com/
 
 **说明**
 
