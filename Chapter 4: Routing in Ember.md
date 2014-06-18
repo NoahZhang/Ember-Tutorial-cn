@@ -34,10 +34,10 @@
 
 这里是如果使用HistoryLocation来代替HashLocation:
 
-// app/assets/javascripts/router.js
-App.Router.reopen({
-  location: 'history'
-})
+    // app/assets/javascripts/router.js
+    App.Router.reopen({
+      location: 'history'
+    })
 
 Boom,就是这么简单.
 
