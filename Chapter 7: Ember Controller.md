@@ -1,7 +1,7 @@
 Ember Controller
 ====================
 
-Controllers用来处理和特定的UI相关的非持久逻辑,他们通常包含一个模型或者模型数组.你可以在controller中放置函数,属性以及observers,它们的功能很像正常的Ember对象,但是有一些例外.
+Controller 用来处理和特定的UI相关的非持久逻辑,他们通常包含一个模型或者模型数组.你可以在controller中放置函数,属性以及observers,它们的功能很像正常的Ember对象,但是有一些例外.
 
 首先我们来看一下三种不同类型的controller.
 
@@ -34,7 +34,7 @@ Ember提供了三种不同类型的controller:`ObjectController`, `ArrayControll
     
     })
 
-你可以把你喜欢的尽可能多的放在你的controller,任何controller的属性都可以被模板和视图使用.
+你可以把你喜欢的尽可能多的放在你的controller中,任何controller的属性都可以被模板和视图使用.
 
 **Mixins**
 
@@ -54,7 +54,7 @@ Ember提供了三种不同类型的controller:`ObjectController`, `ArrayControll
 
 **执行模板的Action**
 
-controller的另一个主要用途是处理模板的action.例如,一个模板可能由一个提交按钮和一个删除链接.它们的action会像这样被处理:
+controller的另一个主要用途是处理模板的操作.例如,一个模板可能有一个提交按钮和一个删除链接.它们的操作会像这样被处理:
 
     // app/assets/javascripts/controllers/user.js
     App.UserController = ObjectController.extend({
@@ -68,6 +68,6 @@ controller的另一个主要用途是处理模板的action.例如,一个模板�
         }
     })
     
-在controller中所有action的处理程序都要放在`actions`对象中,这是一个保持你的代码结构的Ember的惯例.
+在controller中所有操作的处理程序都要放在`actions`对象中,这是一个保持你的代码结构的Ember的惯例.
 
 
