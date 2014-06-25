@@ -22,15 +22,15 @@ Ember View
     
 `willInsertElement`在将视图插入DOM前调用.
 
-`didInsertElement`在将视图插入DOM后马上调用.这是你运行特定模板的JavaScript时最常使用的函数,它对调试也有帮助,如果框架不工作时,你可以在didInsertElement中放一个`debugger`或者`console.log`,来获得更详细的信息.
+`didInsertElement`在将视图插入DOM后马上调用.这是你运行特定模板的JavaScript时最常使用的函数,它对调试也有帮助,如果框架不工作,你可以在didInsertElement中放一个`debugger`或者`console.log`,来获得更详细的信息.
 
-`willDestroyElement`当视图将要从DOM中移除时调用,你可以使用它做一些应该做的清理的工作.
+`willDestroyElement`当视图将要从DOM中移除时调用,你可以使用它做一些必要的清理工作.
 
 **计算别名**
 
-这个不是和视图特别相关的,但是我要使用一个计算别名,所以我解释一下它们是什么.计算别名本质上是从其他对象抓取属性的一个简写.
+这个和视图不是特别相关,但是我要使用一个计算别名,所以我解释一下它们是什么.计算别名本质上是从其他对象抓取属性的一个简写.
 
-你只需要将你要查找的属性的名称字符串传递给`Em.computed.alias`.(Em.是Ember.的别名).这将会查找并且同时观察这个属性.例如:
+你只需要将你要查找的属性的名称字符串传递给`Em.computed.alias`(Em.是Ember.的别名).这将会查找并且同时观察这个属性.例如:
 
     App.MyController = Ember.Controller.extend({
       name: 'Zelda'
@@ -92,7 +92,7 @@ classNameBindings会寻找并且执行你指定的属性,如果active属性返�
       }.property('model.kind')
     })
 
-这种情况下,因为返回值不是布尔类型,所以返回值会被做为类名.如果返回值是undefined,则什么都不做.这里,如果model是一个cat,则会应用`meow`类,如果是dog的话则会应用`woof`.
+这种情况下,因为返回值不是布尔类型,所以返回值会被做为类名.如果返回值是undefined,则什么都不做.这里,如果model是一个cat,则会应用`meow`类,如果是dog的话,则会应用`woof`.
 
 这里有一个你可以使用的简短的版本:
 
