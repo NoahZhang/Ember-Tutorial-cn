@@ -7,10 +7,8 @@ Translate Vic Ramon's Ember Tutorial to Chinese. 原文链接:http://ember.vicra
 
 文章在翻译过程中,所有相关的术语都基本保持英文没有翻译,另外,原文中的代码有CoffeeScript和JavaScript两个版本,在翻译过程中仅有使用JavaScript,如果要查看CoffeeScript的代码,可以查看原文.
 
-**Chapters**
-
-[Chapter 1: Introduction][1]
-
+**Chapters**<br />
+[Chapter 1: Introduction][1]<br />
 [Chapter 2: Hello World][2]
 
 [Chapter 3: The Ember Object][3]
