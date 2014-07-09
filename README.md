@@ -3,52 +3,31 @@ Ember-Tutorial-cn
 
 Translate Vic Ramon's Ember Tutorial to Chinese. 原文链接:http://ember.vicramon.com/
 
-**说明**
-
+**说明**<br />
 文章在翻译过程中,所有相关的术语都基本保持英文没有翻译,另外,原文中的代码有CoffeeScript和JavaScript两个版本,在翻译过程中仅有使用JavaScript,如果要查看CoffeeScript的代码,可以查看原文.
 
 **Chapters**<br />
 [Chapter 1: Introduction][1]<br />
-[Chapter 2: Hello World][2]
-
-[Chapter 3: The Ember Object][3]
-
-[Chapter 4: Routing in Ember][4]
-
-[Chapter 5: Ember Object Flow][5]
-
-[Chapter 6: Ember Route][6]
-
-[Chapter 7: Ember Controller][7]
-
-[Chapter 8: Ember View][8]
-
-[Chapter 9: Ember Template][9]
-
-[Chapter 10: Our App][10]
-
-[Chapter 11: Creating the Rails API][11]
-
-[Chapter 12: Creating the Layout][12]
-
-[Chapter 13: Modeling Leads][13]
-
-[Chapter 14: Listing Leads][14]
-
-[Chapter 15: Showing a Lead][15]
-
-[Chapter 16: Editing a Lead Part I][16]
-
-[Chapter 17: Editing a Lead Part II][17]
-
-[Chapter 18: Deleting a Lead][18]
-
-Chapter 19: Creating a Lead
-
-Chapter 20: Searching Leads
-
-Chapter 21: Deploying to Heroku
-
+[Chapter 2: Hello World][2]<br />
+[Chapter 3: The Ember Object][3]<br />
+[Chapter 4: Routing in Ember][4]<br />
+[Chapter 5: Ember Object Flow][5]<br />
+[Chapter 6: Ember Route][6]<br />
+[Chapter 7: Ember Controller][7]<br />
+[Chapter 8: Ember View][8]<br />
+[Chapter 9: Ember Template][9]<br />
+[Chapter 10: Our App][10]<br />
+[Chapter 11: Creating the Rails API][11]<br />
+[Chapter 12: Creating the Layout][12]<br />
+[Chapter 13: Modeling Leads][13]<br />
+[Chapter 14: Listing Leads][14]<br />
+[Chapter 15: Showing a Lead][15]<br />
+[Chapter 16: Editing a Lead Part I][16]<br />
+[Chapter 17: Editing a Lead Part II][17]<br />
+[Chapter 18: Deleting a Lead][18]<br />
+Chapter 19: Creating a Lead<br />
+Chapter 20: Searching Leads<br />
+Chapter 21: Deploying to Heroku<br />
 Chapter 22: Conclusion
 
 
