@@ -8,27 +8,49 @@ Translate Vic Ramon's Ember Tutorial to Chinese. 原文链接:http://ember.vicra
 文章在翻译过程中,所有相关的术语都基本保持英文没有翻译,另外,原文中的代码有CoffeeScript和JavaScript两个版本,在翻译过程中仅有使用JavaScript,如果要查看CoffeeScript的代码,可以查看原文.
 
 **Chapters**
+
 [Chapter 1: Introduction][1]
+
 [Chapter 2: Hello World][2]
+
 [Chapter 3: The Ember Object][3]
+
 [Chapter 4: Routing in Ember][4]
+
 [Chapter 5: Ember Object Flow][5]
+
 [Chapter 6: Ember Route][6]
+
 [Chapter 7: Ember Controller][7]
+
 [Chapter 8: Ember View][8]
+
 [Chapter 9: Ember Template][9]
+
 [Chapter 10: Our App][10]
+
 [Chapter 11: Creating the Rails API][11]
+
 [Chapter 12: Creating the Layout][12]
+
 [Chapter 13: Modeling Leads][13]
+
 [Chapter 14: Listing Leads][14]
+
 [Chapter 15: Showing a Lead][15]
+
 [Chapter 16: Editing a Lead Part I][16]
+
 [Chapter 17: Editing a Lead Part II][17]
+
 [Chapter 18: Deleting a Lead][18]
+
 Chapter 19: Creating a Lead
+
 Chapter 20: Searching Leads
+
 Chapter 21: Deploying to Heroku
+
 Chapter 22: Conclusion
 
 
