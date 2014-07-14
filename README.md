@@ -27,8 +27,8 @@ Translate Vic Ramon's Ember Tutorial to Chinese. 原文链接:http://ember.vicra
 [Chapter 18: Deleting a Lead][18]<br />
 [Chapter 19: Creating a Lead][19]<br />
 [Chapter 20: Searching Leads][20]<br />
-Chapter 21: Deploying to Heroku<br />
-Chapter 22: Conclusion
+[Chapter 21: Deploying to Heroku][21]<br />
+[Chapter 22: Conclusion][22]
 
 
   [1]: https://github.com/NoahZhang/Ember-Tutorial-cn/blob/master/Chapter1:%20Introduction.md
@@ -51,3 +51,5 @@ Chapter 22: Conclusion
   [18]: https://github.com/NoahZhang/Ember-Tutorial-cn/blob/master/Chapter18:%20Deleting%20a%20Lead.md
   [19]: https://github.com/NoahZhang/Ember-Tutorial-cn/blob/master/Chapter19:%20Creating%20a%20Lead.md
   [20]: https://github.com/NoahZhang/Ember-Tutorial-cn/blob/master/Chapter20:%20Searching%20Leads.md
+  [21]: https://github.com/NoahZhang/Ember-Tutorial-cn/blob/master/Chapter21:%20Deploying%20to%20Heroku.md
+  [22]: https://github.com/NoahZhang/Ember-Tutorial-cn/blob/master/Chapter22:%20Conclusion.md
